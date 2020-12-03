@@ -104,7 +104,7 @@ else:
 time.sleep(1)
 
 print ("Question 8\n Translate:thijabi hecha baha ga uch ")
-print (" A:a squirrels is at that hill(far away) \n B:some squirrels are at that hill (far awar) \n C:That squirrel(near listener) is at this hill(near speaker) \n D:a squirrel is at this hill(near speaker) ")
+print (" A:a squirrel is at that hill(far away) \n B:some squirrels are at that hill (far awar) \n C:That squirrel(near listener) is at this hill(near speaker) \n D:a squirrel is at this hill(near speaker) ")
 total_questions += 1
 choice = input(">>> ")
 if choice in A8:
